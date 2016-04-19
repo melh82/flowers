@@ -1,0 +1,325 @@
+body  {
+    
+    background-image: url(http://www.publicdomainpictures.net/pictures/120000/nahled/watercolor-floral-paper.jpg)
+}
+
+.lobster  {
+    font-family: 'Lobster', arial, serif;
+}
+
+.lora  {
+    font-family: 'Lora', arial, serif;
+}
+
+.center  {
+    text-align: center;
+}
+
+/* This is the font size to 24 points css */
+
+.font24 {
+    font-size:24px;
+    
+}
+
+.spacing  {
+    letter-spacing:3px;
+}
+
+.overall {
+    text-align:center;
+    background-color:#9ED0E6;
+}
+
+.mainbg  {
+    position:fixed;
+    margin:auto;
+    width:100%;
+}
+
+/* This is the navigation bar */
+
+ul  {
+    list-style-type:none;
+    margin:5px;
+    padding:5px;
+    width:200px;
+    background-color:#B796AC;
+    border:1px solid #000;  
+    
+}
+
+li  {
+    display:inline;
+    text-align:center;
+    font-family:lobster;
+    font-weight:bold;
+    font-size:20px;
+    border-bottom:1px solid #555;
+}
+
+li a  {
+    display:block;
+    color:#785964;
+    padding:5px 5px 5px 5px;
+    text-decoration:none;
+}
+
+/*Change the link color to #785964 (purple)on hover */
+li a:hover  {
+    background-color:#B796AC;
+    color:white;
+}
+
+.active  {
+    background-color:#9ED0E6;
+    color:white;
+}
+
+/* End of navigation bar css */
+
+
+h1  {
+    font-size:40px;
+    text-align:center;
+    color:purple;
+    font-weight:bold;
+}
+
+#caption  {
+    background-color:#B796AC;
+    font-size:18px;
+    color:darkblue;
+    padding:20px 20px 20px 20px;
+    border:5px double #785964;
+    width:905px;
+    height:150px;
+    background-image:url(https://pixabay.com/static/uploads/photo/2016/01/20/17/19/flower-1151970_960_720.png)
+
+}
+
+
+
+div  {
+    font-size:18px;
+    display:inline-block;
+    margin-left:120px;
+    margin-right:90px;
+    padding:10px 10px 10px 10px;
+    border:1px solid #785964;
+    background-color:#B796AC;
+    margin-top:50px;
+}
+
+
+img  {
+    
+    height:200px;
+    width:300px;
+    padding:10px 10px 10px 10px;
+    margin:10px 10px 10px 10px;
+}
+
+
+
+
+span.lobster  {
+    color:purple;
+}
+
+body  {
+    
+    background-image: url(http://www.publicdomainpictures.net/pictures/120000/nahled/watercolor-floral-paper.jpg)
+}
+
+
+
+#caption  {
+    background-color:#B796AC;
+    font-size:18px;
+    color:darkblue;
+    padding:20px 20px 20px 20px;
+    border:5px double #785964;
+    width:905px;
+    height:150px;
+    background-image:url(https://pixabay.com/static/uploads/photo/2016/01/20/17/19/flower-1151970_960_720.png)
+
+}
+
+
+div  {
+    font-size:18px;
+    display:inline-block;
+    margin-left:120px;
+    margin-right:90px;
+    padding:10px 10px 10px 10px;
+    border:1px solid #785964;
+    background-color:#B796AC;
+    margin-top:50px;
+
+}
+
+
+img  {
+    
+    height:200px;
+    width:300px;
+    padding:10px 10px 10px 10px;
+    margin:10px 10px 10px 10px;
+}
+
+
+
+
+span.lobster  {
+    color:purple;
+}
+
+
+h1  {
+    font-size:40px;
+    text-align:center;
+    color:purple;
+    font-weight:bold;
+    background-image:url(https://pixabay.com/static/uploads/photo/2015/11/17/17/10/background-1047917_960_720.jpg)
+}
+
+h2  {
+    text-align:center;
+    font-size:20px;
+    color:purple;
+    font-weight:bold;
+    background-image:url(https://pixabay.com/static/uploads/photo/2015/11/17/17/10/background-1047917_960_720.jpg)
+}
+
+div  {
+    color:darkblue;
+    font-size:18px;
+    display:inline-block;
+    padding:30px 30px 30px 30px;
+    margin-left:120px;
+    margin-right:90px;
+    border:2px solid #785964;
+    background-color:#B796AC;
+    
+}
+
+
+img  {
+    
+    height:100px;
+    width:100px;
+    padding:10px 10px 10px 10px;
+    margin:10px 10px 10px 10px;
+}
+
+p  {
+    text-align:left;
+    font-size:15px;
+}
+
+p.img-container  {
+    float:right;
+    text-align:center;
+    background-color:#9ED0E6;
+    color:black;
+    
+}
+
+span.lobster  {
+    color:purple;
+}
+
+
+
+#caption  {
+    background-color:#B796AC;
+    font-size:18px;
+    color:darkblue;
+    padding:20px 20px 20px 20px;
+    border:5px double #785964;
+    width:905px;
+    height:150px;
+    background-image:url(https://pixabay.com/static/uploads/photo/2016/01/20/17/19/flower-1151970_960_720.png)
+
+}
+
+
+
+div  {
+    font-size:18px;
+    display:inline-block;
+    margin-left:120px;
+    margin-right:90px;
+    padding:10px 10px 10px 10px;
+    border:1px solid #785964;
+    background-color:#B796AC;
+    margin-top:50px;
+}
+
+
+img  {
+    
+    height:200px;
+    width:300px;
+    padding:10px 10px 10px 10px;
+    margin:10px 10px 10px 10px;
+}
+
+
+
+
+span.lobster  {
+    color:purple;
+}
+
+
+div  {
+    font-size:18px;
+    display:inline-block;
+    margin-left:120px;
+    margin-right:90px;
+    padding:10px 10px 10px 10px;
+    border:1px solid #785964;
+    background-color:#B796AC;
+    margin-top:50px;
+}
+
+/* This is for main page */
+
+p.img-container  {
+    text-align:center;
+    background-color:#9ED0E6;
+    color:black;
+    
+}
+
+img  {
+    
+    height:200px;
+    width:300px;
+    padding:10px 10px 10px 10px;
+    margin:10px 10px 10px 10px;
+}
+
+/* This is on main page only */
+
+.seeds  {
+    height:100px;
+    width:120px;
+    padding:10px 10px 10px 10px;
+    margin-left:20px;
+}
+
+
+
+p  {
+    text-align:left;
+    font-size:15px;
+}
+
+
+
+span.lobster  {
+    color:purple;
+}
